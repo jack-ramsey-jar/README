@@ -4,10 +4,17 @@
 ## About Me
 I am a student at Richland High School in Richland, WA interested in technology, computer science, and game development.
 
-## Skills
-- Java
-- Calculus 1 & 2
+## Professional Skills
 - Problem Solving
+- Time Managment
+- Self-Directed Learning
+- Attention to Detail
+
+## Techincal Skills
+- Java
+- Git & Github
+- Object-Oriented Programming
+- Data Structures and Algorithms
 
 ## Career Goals
 - Build knowledge in web development coding languages, concepts (such as UI/UX), and APIs.
