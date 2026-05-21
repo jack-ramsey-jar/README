@@ -2,7 +2,7 @@
 # Jack Ramsey
 
 ## About Me
-I am a student at Richland High School in Richland, WA interested in technology, computer science, and game development.
+I a high school graduate from Richland High School in Richland, WA interested in technology, computer science, and game development.
 
 ## Professional Skills
 - Problem Solving
